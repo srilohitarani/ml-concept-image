@@ -1,0 +1,6 @@
+{
+  "prompt": "Cinematic photograph of a long stone corridor stretching into the far distance, lit only by a single candle held by a figure at the very end...",
+  "model": "DALL-E 3",
+  "concept": "vanishing gradients",
+  "metaphor": "A corridor where light fades with distance: figures near the camera are in near-total darkness, mirroring how gradient signals shrink to nothing in early layers."
+}
